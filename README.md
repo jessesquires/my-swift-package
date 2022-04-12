@@ -1,6 +1,6 @@
 # my-swift-package
 
-Testing DocC
+*Testing DocC on GitHub Pages*
 
 Root:
 https://jessesquires.github.io/my-swift-package/
